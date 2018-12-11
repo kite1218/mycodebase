@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 	int i = 23;
-	cout<<"测试"<<endl;
+	cout << "测试2" << endl;
 	cout << i << endl;
 	return 1;
 }
