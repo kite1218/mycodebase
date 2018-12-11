@@ -4,8 +4,8 @@ project(mybase)
 set(CMAKE_CXX_STANDARD 11)
 
 #指定生成的版本
-set(CMAKE_BUILD_TYPE RELEASE)
-#set(CMAKE_BUILD_TYPE DEBUG)
+#set(CMAKE_BUILD_TYPE RELEASE)
+set(CMAKE_BUILD_TYPE DEBUG)
 
 
 add_executable(mybase main.cpp)
